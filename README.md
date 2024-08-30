@@ -26,3 +26,9 @@ Email - pt5162@srmist.edu.in
 
 ## Track Name - "FinTech"
 
+## Problem Statement 
+In the volatile world of stock trading, investors and traders often struggle to make informed decisions due to the overwhelming volume of information and the rapid pace at which news and social sentiment can impact stock prices.
+
+## Soltion 
+Stock Block is web app based on machine learning and sentiment analysis  of tweets. The app forecast stock prices of the given stock under NSE as input by the user.
+
